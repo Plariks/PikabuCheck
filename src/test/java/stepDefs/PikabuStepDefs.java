@@ -17,7 +17,7 @@ public class PikabuStepDefs {
     @Given("pikabu homepage")
     public void open_pikabu_homepage() {
         baseFunc.openPage(url);
-//        homePage = new HomePage(baseFunc);
+
     }
 
 
